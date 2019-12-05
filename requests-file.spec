@@ -6,7 +6,7 @@
 #
 Name     : requests-file
 Version  : 1.4.3
-Release  : 2
+Release  : 3
 URL      : https://files.pythonhosted.org/packages/a0/f9/8c1712aea1b70c6a77db322bb18610a078ba8f44876e95289137953db30d/requests-file-1.4.3.tar.gz
 Source0  : https://files.pythonhosted.org/packages/a0/f9/8c1712aea1b70c6a77db322bb18610a078ba8f44876e95289137953db30d/requests-file-1.4.3.tar.gz
 Source99 : https://files.pythonhosted.org/packages/a0/f9/8c1712aea1b70c6a77db322bb18610a078ba8f44876e95289137953db30d/requests-file-1.4.3.tar.gz.asc
