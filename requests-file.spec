@@ -6,7 +6,7 @@
 #
 Name     : requests-file
 Version  : 1.4.3
-Release  : 4
+Release  : 5
 URL      : https://files.pythonhosted.org/packages/a0/f9/8c1712aea1b70c6a77db322bb18610a078ba8f44876e95289137953db30d/requests-file-1.4.3.tar.gz
 Source0  : https://files.pythonhosted.org/packages/a0/f9/8c1712aea1b70c6a77db322bb18610a078ba8f44876e95289137953db30d/requests-file-1.4.3.tar.gz
 Source1  : https://files.pythonhosted.org/packages/a0/f9/8c1712aea1b70c6a77db322bb18610a078ba8f44876e95289137953db30d/requests-file-1.4.3.tar.gz.asc
@@ -49,6 +49,9 @@ python components for the requests-file package.
 Summary: python3 components for the requests-file package.
 Group: Default
 Requires: python3-core
+Provides: pypi(requests_file)
+Requires: pypi(requests)
+Requires: pypi(six)
 
 %description python3
 python3 components for the requests-file package.
@@ -63,7 +66,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1576015173
+export SOURCE_DATE_EPOCH=1583704504
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
