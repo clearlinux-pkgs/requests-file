@@ -1,5 +1,5 @@
 PKG_NAME := requests-file
-URL = https://files.pythonhosted.org/packages/a0/f9/8c1712aea1b70c6a77db322bb18610a078ba8f44876e95289137953db30d/requests-file-1.4.3.tar.gz
+URL = https://files.pythonhosted.org/packages/50/5c/d32aeed5c91e7970ee6ab8316c08d911c1d6044929408f6bbbcc763f8019/requests-file-1.5.1.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
